@@ -6,4 +6,4 @@ Except it's not in vim ball format.
 
 ### Install
 
-Recommand to use `Pathogen`.
+Recommend to use `Pathogen`.
